@@ -1,0 +1,2 @@
+export const LOGO_URL="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/640px-Starbucks_Corporation_Logo_2011.svg.png"
+export const BG_URL="https://assets.awwwards.com/awards/submissions/2024/05/66504b8cb2482646854533.png"
